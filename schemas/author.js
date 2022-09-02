@@ -9,6 +9,11 @@ export default {
       title: "Author Name",
     },
     {
+      name: "desc",
+      type: "string",
+      title: "Description",
+    },
+    {
       name: "image",
       type: "image",
       title: "Image",
